@@ -1,2 +1,2 @@
 # vixv
-meta
+![logo](meta/logo-400x400.png)
